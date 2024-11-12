@@ -1,0 +1,6 @@
+{
+  "serverOpts": {
+    "port": "VR_SERVER_PORT",
+    "host": "VR_SERVER_HOST"
+  }
+}
